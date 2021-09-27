@@ -1,6 +1,6 @@
 ## Hi there, I am Piotrek 👋
 ### :raising_hand_man: About me
-Young developer with experience in web development, currently looking for a job as a Frontend Developer with React.
+Young developer currently looking for a job as a Frontend Developer with React.
 
 ### :hammer_and_wrench:Tech stack
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
